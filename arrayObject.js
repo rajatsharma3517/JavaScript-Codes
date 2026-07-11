@@ -4,7 +4,7 @@ const techMorphsTasks = [
     status: "completed"
   },
   {
-    title: "Set up Node.js backend server",
+    title: "Set up Node.js backend Server",
     status: "pending"
   },
   {
