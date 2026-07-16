@@ -2,7 +2,7 @@ const firstName = "Rajat";
 const lastName = "Sharma";
 const dateOfBirth = "2005-12-16";
 
-let age = 20;
+let age = 21;
 let currentSemester = 6;
 const degree = "B.Tech CSE";
 
